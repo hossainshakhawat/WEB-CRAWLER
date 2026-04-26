@@ -1,0 +1,9 @@
+[submodule "crawler-seed"]
+	path = crawler-seed
+	url = git@github.com:hossainshakhawat/crawler-seed.git
+[submodule "crawler-parser"]
+	path = crawler-parser
+	url = git@github.com:hossainshakhawat/crawler-parser.git
+[submodule "crawler-worker"]
+	path = crawler-worker
+	url = git@github.com:hossainshakhawat/crawler-worker.git
